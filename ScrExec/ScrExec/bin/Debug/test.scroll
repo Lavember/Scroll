@@ -1,0 +1,3 @@
+var spec asmn
+write hi
+write I'$(spec)

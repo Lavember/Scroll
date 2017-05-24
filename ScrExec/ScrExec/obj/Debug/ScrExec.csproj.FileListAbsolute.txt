@@ -1,0 +1,6 @@
+C:\Users\joaop\Desktop\Scroll-lang\Scroll\ScrExec\ScrExec\bin\Debug\ScrExec.exe.config
+C:\Users\joaop\Desktop\Scroll-lang\Scroll\ScrExec\ScrExec\bin\Debug\ScrExec.exe
+C:\Users\joaop\Desktop\Scroll-lang\Scroll\ScrExec\ScrExec\bin\Debug\ScrExec.pdb
+C:\Users\joaop\Desktop\Scroll-lang\Scroll\ScrExec\ScrExec\obj\Debug\ScrExec.csprojResolveAssemblyReference.cache
+C:\Users\joaop\Desktop\Scroll-lang\Scroll\ScrExec\ScrExec\obj\Debug\ScrExec.exe
+C:\Users\joaop\Desktop\Scroll-lang\Scroll\ScrExec\ScrExec\obj\Debug\ScrExec.pdb
