@@ -44,21 +44,22 @@ namespace ScrExec
                     if (spaces.Length > 2)
                     {
                         varVAL = "";
-                        for (int i = 3; i < spaces.Length; i++)
+                        for (int i = 2; i < spaces.Length; i++)
                         {
                             varVAL += spaces[i];
                         }
                     }
 
 
-
+                    // Analyze variable
                     foreach (string space in spaces)
                     {
-                        defVAR = (space == "var");
+                        defVAR = (space == "var"); // Check if there IS a var declaration/redefinition
 
                         if (defVAR == true && spaces.Length > 2)
                         {
-                            variables.Add(spaces[1] + ":" + varVAL);
+                            variables.Add(spaces[1] + ":" + varVAL); // Add to variables list
+                            
                         }
 
 
